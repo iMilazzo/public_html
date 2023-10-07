@@ -1,0 +1,1 @@
+[18-Sep-2023 10:56:04 America/Fortaleza] PHP Warning:  Attempt to read property "id" on null in /home2/mundoi56/public_html/libraries/src/Updater/Adapter/ExtensionAdapter.php on line 303
